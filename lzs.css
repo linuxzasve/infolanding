@@ -1,4 +1,4 @@
-body	{font-family:Helvetica;padding:0;margin:0;font-size:14px;background-color:#ececec;color:#313131}
+body        {font-family:Helvetica;padding:0;margin:0;font-size:14px;background-color:#ececec;color:#313131}
 a {text-decoration:none;color:#313131}
 h2 {color:#454545;font-size:38px;}
 p {text-align:justify;}
@@ -13,9 +13,8 @@ p {text-align:justify;}
 /*.nav:hover .nav_links{display:block;z-index:99}*/
 
 .main {position:absolute;top:61px;}
-.compare {width:80%;}
-.three {float:left;width:150px;}
+.compare {max-width:760px;margin:auto;}
+.three {float:left;;width:150px;}
 .col_name{font-weight:bold;}
 @media all and (max-width:480px) {.nav_links{display:none;padding-bottom:5px;} .navdrop{display:inline-block;width:100px;}}
-
 
