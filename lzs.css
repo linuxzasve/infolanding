@@ -12,9 +12,12 @@ p {text-align:justify;}
 
 /*.nav:hover .nav_links{display:block;z-index:99}*/
 
+.more-info{min-height:30px;}
+.info-text{font-style:italic;}
+
 .main {position:absolute;top:61px;}
-.compare {max-width:760px;margin:auto;}
-.three {float:left;;width:150px;}
+.compare {max-width:800px;margin:auto;}
+.columns {float:left;width:140px;min-height:140px;padding:8px;}
 .col_name{font-weight:bold;}
 @media all and (max-width:480px) {.nav_links{display:none;padding-bottom:5px;} .navdrop{display:inline-block;width:100px;}}
 
