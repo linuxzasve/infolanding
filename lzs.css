@@ -1,7 +1,7 @@
 body        {font-family: 'Roboto', 'Helvetica Neue', Helvetica, Arial, sans-serif;padding:0;margin:0;font-size:14px;background-color:#ffffff;color:#313131;background-image: url('ps_neutral.png');}
 a {text-decoration:none;color:#369699}
-a:hover {text-decoration:none;}
-h2 {color:#454545;font-size:38px;}
+a:hover {text-decoration:none;color:#369699}
+h2 {color:#2c2c2c;font-size:38px;}
 p {text-align:justify;}
 
 
