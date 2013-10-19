@@ -26,7 +26,7 @@ p {text-align:justify;}
 .col_name{font-weight:bold;}
 **/
 .footer-bars {background-image:url('footer.png');background-repeat:repeat-y;}
-
+/**
 @media all and (max-width:700px) 
 {.header{height:70px;} 
 .nav_links{display:none;padding-bottom:5px;} 
@@ -38,5 +38,5 @@ border-radius: 5px;}
 border-radius: 5px;background-color:#ffffff;z-index:99} 
 .nav:hover .nav_links{display:block;padding:6px;text-align:left;float:left;height:25px;}
 .nav:hover .navdrop{border:0}}
-
+**/
 
