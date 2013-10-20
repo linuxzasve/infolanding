@@ -13,7 +13,7 @@ p {text-align:justify;}
 .nav_links {display:inline-block;height:29px;min-width:100px;text-align:center;}
 .nav_links a {color:#545454}
 .nav_links a:hover{text-decoration:none;color:#369699;}
-.nav_links:hover{border-bottom:6px solid #369699;}
+.nav_links:hover{border-bottom:6px solid #208ccb;}
 
 .more-info{min-height:30px;}
 .info-text{font-style:italic;}
@@ -36,5 +36,5 @@ p {text-align:justify;}
 .nav_links{display:none;padding-bottom:5px;} 
 .nav:hover{width:155px;height:155px;border:1px solid #d8d8d8;-webkit-border-radius: 5px;-moz-border-radius: 5px;border-radius: 5px;z-index:199} 
 .nav:hover .nav_links{display:block;padding-top:6px;text-align:left;height:23px;}
-.nav_links:hover{border:0;padding-left:5px;border-left:6px solid #369699;}
+.nav_links:hover{border:0;padding-left:5px;border-left:6px solid #208ccb;}
 }
