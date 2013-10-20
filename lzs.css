@@ -40,8 +40,9 @@ border-radius: 5px;background-image:url('down.png');background-repeat:no-repeat;
 .nav_links{display:none;padding-bottom:5px;} 
 .nav:hover{width:155px;height:155px;border:1px solid #d8d8d8;-webkit-border-radius: 5px;
 -moz-border-radius: 5px;
-border-radius: 5px;background-color:#ffffff;z-index:199} 
-.nav:hover .nav_links{display:block;padding:6px;text-align:left;float:left;height:25px;background-color:#fff;color:#208ccb;}
+border-radius: 5px;background-color:#fff;color:#208ccb;z-index:199} 
+.nav:hover .nav_links{display:block;padding-top:6px;text-align:left;/**float:left;**/height:25px;}
 .nav:hover .navdrop{border:0}}
-
+.nav_links a:link:hover{color:#fff !important;background-color:#208ccb !important;display:block !important;width:100%;white-space:nowrap;clear:both;margin:0px;}
+.nav_links a:link {display:block !important;}
 
