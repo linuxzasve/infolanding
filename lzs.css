@@ -6,9 +6,9 @@ p {text-align:justify;}
 
 
 
-.header {position:absolute;top:0;left:0;width:100%;height:60px;background-color:#ffffff;border:1px solid #989898}
+.header {position:absolute;top:0;left:0;width:100%;height:60px;background-color:#ffffff;border-bottom:1px solid #989898;z-index:999}
 
-.container {width:80%;margin:auto;padding-top:20px;}
+.container {display:block;width:80%;margin:auto;padding-top:20px;}
 .links {display:inline-block;}
 
 .nav {position:relative;float:right;background-color:#ffffff;z-index:199}
@@ -22,7 +22,7 @@ p {text-align:justify;}
 
 .main {position:absolute;top:61px;padding-bottom:300px;}
 .compare {max-width:800px;margin:auto;}
-.columns {float:left;width:140px;min-height:120px;padding:8px;}
+.columns {display:inline-block;width:140px;min-height:120px;padding:8px;}
 .col_name{font-weight:bold;}
 
 .footer{position:absolute;bottom:0;width:100%;height:300px;}
