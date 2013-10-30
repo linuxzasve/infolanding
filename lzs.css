@@ -17,6 +17,7 @@ p {text-align:justify;}
 
 .more-info{min-height:30px;}
 .info-text{font-style:italic;}
+.info_icon{max-width:15px;max-height:15px;}
 
 .main {position:absolute;top:61px;padding-bottom:300px;}
 .compare {max-width:800px;margin:auto;}
