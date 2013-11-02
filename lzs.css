@@ -33,8 +33,7 @@ p {text-align:justify;}
 .nav{position:absolute;top:15px;right:10px;display:inline-block;color:#545454;width:28px;height:28px;padding:5px;border:1px solid #d8d8d8;-webkit-border-radius: 5px;-moz-border-radius: 5px;border-radius: 5px;}
 .nav_triangle {position:relative;padding-bottom:20px;margin:0;color:#adadad;background:#ffffff;}
 .nav_triangle:after{content:"";position:absolute;top:8px;right:4px;border-width:10px 10px 0;border-style:solid;border-color:#565656 transparent;display:block;width:0;}
-.nav_triangle.bottom:after {bottom:0;right:0;top:auto;left:auto;border-width:18px 18px 0;border-color:#313131 transparent;}
-.nav_links{display:none;padding-bottom:5px;} 
+.nav_links{display:none;padding-bottom:5px;padding-left:5px;border-left:6px solid #ffffff;} 
 .nav:hover{width:155px;height:155px;border:1px solid #d8d8d8;-webkit-border-radius: 5px;-moz-border-radius: 5px;border-radius: 5px;z-index:199} 
 .nav:hover .nav_links{display:block;padding-top:6px;text-align:left;height:23px;}
 .nav_links:hover{border:0;padding-left:5px;border-left:6px solid #208ccb;}
